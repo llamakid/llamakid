@@ -3,6 +3,7 @@
 I'm Nate. Husband, Father, Developer, and Builder of Digital Things.
 
 🔭 I’m currently working on building DadDAO and SuperForecaster.
+
 🌱 I’m currently learning how to write better Rust programs for Solana.
 
 <!--
