@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm Nate. Husband, Father, Developer, and Creator of Digital Things by day; LlamaKid by night.
+I'm Nate. Husband, Father, Developer, and Builder of Digital Things.
+
+🔭 I’m currently working on building DadDAO and SuperForecaster.
+🌱 I’m currently learning how to write better Rust programs for Solana.
 
 <!--
 **llamakid/llamakid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
