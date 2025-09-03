@@ -1,21 +1,60 @@
-### Hi there 👋
+# Nate Guy — Senior Frontend Developer
 
-I'm Nate. Husband, Father, Developer, and Builder of Digital Things.
+**React • AI‑Driven Pharma SaaS**
 
-🔭 I’m currently working on building DadDAO and SuperForecaster.
+I build scalable, design‑driven web & iOS applications for pharma, healthcare, and publishing. Currently at **BigTinCan (AI‑driven Sales Enablement)** building React + Veeva CRM/Vault solutions. Previously: GE (WWDC keynote), NFL, Sesame Street, Genentech.
 
-🌱 I’m currently learning how to write better Rust programs for Solana.
 
-<!--
-**llamakid/llamakid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔗 Links
+- 💼 LinkedIn: https://www.linkedin.com/in/nathanguy/
+- 🌐 Portfolio: https://llamakid.com
+- 📧 Email: thatn8guy@gmail.com
+- 🧑‍💻 GitHub: https://github.com/llamakid
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 14+ years building **enterprise web & iOS** apps
+- **React/Next.js/TypeScript** specialist, strong UI/UX
+- **Pharma & Healthcare** platforms (Veeva CRM/Vault)
+- **AI‑driven** features to boost sales enablement
+- AR/interactive projects (Blippar), emerging tech (Solana AI agents)
+
+---
+
+## 🚀 Featured Projects
+
+### Preorder Perks
+SaaS platform for book preorder incentives.
+**Stack:** React, Firebase, Firestore
+
+### Genentech Investigational Therapies Hub
+Enterprise React apps for Molecules & Clinical Trials.
+**Stack:** React, JSON‑driven content
+**Links:** Case Study (PDF) • Private code
+
+### BigTinCan — AI‑Driven Sales Enablement
+Pharma sales apps with Veeva CRM/Vault and AI‑assisted workflows.
+**Stack:** React, Veeva, TypeScript
+**Links:** Company Site
+
+### Blippar AR Campaigns
+Interactive AR for global brands; week‑long delivery cycles.
+**Stack:** BlippBasic (JS), Blender
+**Links:** Case Study
+
+---
+
+## 🛠️ Skills
+**Frontend:** React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind
+**Backend/DB:** Node.js, Firebase (Auth, Firestore, Functions), REST
+**Platforms:** Veeva CRM/Vault, Vercel
+**Design:** Figma, Photoshop, UI/UX
+
+---
+
+## 📫 Contact
+Open to senior frontend roles (remote/US).
+**Email:** thatn8guy@gmail.com | **LinkedIn:** https://www.linkedin.com/in/nathanguy/
