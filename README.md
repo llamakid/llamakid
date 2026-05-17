@@ -26,6 +26,10 @@ I build scalable, design‑driven web & iOS applications for pharma, healthcare,
 
 ## 🚀 Featured Projects
 
+### Clearly, AI
+Online School for non technical people ot learn to use AI in plain english.
+**Stack:** TypeScript, supabase, resend
+
 ### Preorder Perks
 SaaS platform for book preorder incentives.
 **Stack:** React, Firebase, Firestore
@@ -33,22 +37,19 @@ SaaS platform for book preorder incentives.
 ### Genentech Investigational Therapies Hub
 Enterprise React apps for Molecules & Clinical Trials.
 **Stack:** React, JSON‑driven content
-**Links:** Case Study (PDF) • Private code
 
 ### BigTinCan — AI‑Driven Sales Enablement
 Pharma sales apps with Veeva CRM/Vault and AI‑assisted workflows.
 **Stack:** React, Veeva, TypeScript
-**Links:** Company Site
 
 ### Blippar AR Campaigns
 Interactive AR for global brands; week‑long delivery cycles.
 **Stack:** BlippBasic (JS), Blender
-**Links:** Case Study
 
 ---
 
 ## 🛠️ Skills
-**Frontend:** React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind
+**Frontend:** React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind, PHP, Laravel
 **Backend/DB:** Node.js, Firebase (Auth, Firestore, Functions), REST
 **Platforms:** Veeva CRM/Vault, Vercel
 **Design:** Figma, Photoshop, UI/UX
