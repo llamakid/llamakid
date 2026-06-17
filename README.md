@@ -25,7 +25,7 @@ A school built for real people — no jargon, no tech background required, no ov
 
 ---
 
-### XO Fun — *Tic Tac Toe for Kids & Families*
+### [XO Fun](https://apps.apple.com/us/app/xo-fun-tic-tac-toe/id6777161553) — *Tic Tac Toe for Kids & Families*
 A clean, calm two-player Tic Tac Toe app. One device, two players, nothing to learn. No accounts, no internet required. Built for families who just want to play.
 `Swift` `SwiftUI` `iOS`
 
